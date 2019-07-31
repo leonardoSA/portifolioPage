@@ -9,7 +9,7 @@ main h1{
     font-family: 'Open-sans', sans-serif;
     font-size: 50px;
     background-color: #52f7c5;
-    color: #fafffa;
+    color: #000;
     text-align: center;
     padding: 20px;
     margin: 0;
@@ -31,4 +31,31 @@ blockquote{
     width: 250px;
     margin: 0;
     box-sizing: border-box;
+}
+
+aside{
+    background-color: #52f7c5;
+    color: #000;;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Open-sans', sans-serif;
+}
+
+nav h1{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+nav a{
+    color: inherit;
+}
+
+aside li{
+    display: inline-block;
+}
+
+footer{
+    background-color: #000;
+    color: #f2fffc;
+    padding: 20px;
 }
