@@ -1,0 +1,11 @@
+main h1{
+    font-family: 'Open-sans', sans-serif;
+    font-size: 50px;
+    background-color: #52f7c5;
+    color: #fafffa;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+    font-family: 'Open-sans', sans-serif;
+}
