@@ -21,7 +21,7 @@ h2{
 
 p{
     text-align: justify;
-    margin: 20px 0;
+    margin: 25px 0;
 }
 
 blockquote{
@@ -50,7 +50,7 @@ nav a{
     color: inherit;
 }
 
-#icones-sociais li{
+.icones-sociais li{
     display: inline-block;
 }
 
@@ -58,4 +58,8 @@ footer{
     background-color: #000;
     color: #f2fffc;
     padding: 20px;
+}
+
+.social-rodape{
+    margin: 30px;
 }
